@@ -1,0 +1,13 @@
+header{
+    background-color: aquamarine;
+
+}
+header h1{
+    color:blueviolet;
+    padding-top: 5%;
+    text-align: center;
+}
+nav ul{
+    display:inline-flex;
+    
+}

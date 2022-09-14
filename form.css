@@ -1,0 +1,21 @@
+.b{
+    border: 2px solid black;
+}
+
+html{
+    background-color:rgba(41, 174, 85, 0.815);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.form-layout{
+    align-self: center;
+    background-color: rgb(203, 127, 216);
+    width: 50%;
+    height: 60%;
+    
+    margin: 40vh auto 0rem auto;
+    padding: 2rem;
+
+}
+h1{
+    text-align: center;
+}
